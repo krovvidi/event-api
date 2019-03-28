@@ -1,5 +1,5 @@
 INSERT INTO EVENT(EVENT_DATE, EVENT_MONTH, EVENT_YEAR, EVENT_TYPE, EVENT_GROUP, FIRST_NAME, LAST_NAME, MAIDEN_NAME, EMAIL_ID, PHONE_NUMBER, ZIP_CODE)
-VALUES (29,11,1976, 'Birth', 'Relatives', 'Suresh', 'Krovvidi', null, 'suresh.krovvidi@gmail.com', '+1-513-370-4097', '45040');
+VALUES (1,11,1989, 'Birth', 'Relatives', 'John', 'Doe', null, 'john.doe@company.com', '+1-234-234-2342', '54321');
 
 INSERT INTO EVENT(EVENT_DATE, EVENT_MONTH, EVENT_YEAR, EVENT_TYPE, EVENT_GROUP, FIRST_NAME, LAST_NAME, MAIDEN_NAME, EMAIL_ID, PHONE_NUMBER, ZIP_CODE)
-VALUES (22,3,1978, 'Birth', 'Relatives', 'Srividya', 'Krovvidi', 'Mallapragada', 'srividya.krovvidi@gmail.com', '+1-513-808-5115','45040');
+VALUES (2,3,1987, 'Birth', 'Relatives', 'Sam', 'K', 'Smith', 'sam.k.smith@test.com', '+1-123-123-1234','12345');
